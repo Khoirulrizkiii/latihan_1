@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rusak</title>
+</head>
+<body style="background-color:greenyellow">
+    <h1>khoirul ganteng</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSX4c_77gnC108OhdSrH-STeT6hm7Er64yw&usqp=CAU"width="200">
+    <br>
+    <a href="https://www.instagram.com/khoirul_rizkiii/">instagram</a>
+    <p>ilmu kucing</p>
+<h3 style="color: red;"">jenis-jenis kucing</h3>
+<table border="1">
+	<tr>
+					<td>no</td>
+					<td>nama</td>
+	</tr>		
+		<tr>
+					<td>1</td>
+					<td>persia</td>
+	</tr>		
+	<tr>
+					<td>2</td>
+					<td>kampung</td>
+	</tr>				
+</table>
+</body>
+</html>
